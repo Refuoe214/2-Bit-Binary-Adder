@@ -24,4 +24,5 @@ A 2-bit binary adder operates by taking two 2-bit binary inputs and producing a 
 
 Link https://www.youtube.com/watch?v=XqxToRHvX2k&t=21s&pp=ygUTMi1iaXQgYmluYXJ5IGFkZGVyIA%3D%3D
 
+Link https://github.com/Refuoe214/2-Bit-Binary-Adder/releases
 
