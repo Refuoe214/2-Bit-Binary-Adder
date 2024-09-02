@@ -20,5 +20,8 @@ A 2-bit binary adder operates by taking two 2-bit binary inputs and producing a 
 
 ### Applications
 
-2-bit binary adders are basis of larger arithmetic circuits, such as 4-bit, and in building complex systems like CPUs. 
+2-bit binary adders are basis of larger arithmetic circuits, such as 4-bit, and in building complex systems like CPUs.
+
+Link https://www.youtube.com/watch?v=XqxToRHvX2k&t=21s&pp=ygUTMi1iaXQgYmluYXJ5IGFkZGVyIA%3D%3D
+
 
